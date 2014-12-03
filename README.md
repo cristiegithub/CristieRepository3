@@ -6,4 +6,4 @@ Repository3 ko to
 
 test
 
-JIRATRADE-1
+JIRATRADE-1 changes
